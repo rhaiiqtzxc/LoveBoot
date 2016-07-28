@@ -400,11 +400,11 @@ namespace LoveBoot
 
             string[] phrases = new string[]
             {
-                "I am using a bot.",
-                "I'm playing with LoveBoot!",
-                "Report me!",
-                "LoveBoot was here",
-                "ban me @boo",
+                "",
+                "",
+                "",
+                "",
+                "",
             };
 
             string[] channels = new string[]
